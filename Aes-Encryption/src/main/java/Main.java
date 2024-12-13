@@ -1,3 +1,6 @@
+import Cipher.AesKey;
+import Cipher.Kstore;
+
 import javax.crypto.SecretKey;
 import java.security.KeyStore;
 
